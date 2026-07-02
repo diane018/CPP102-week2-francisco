@@ -1,0 +1,29 @@
+Laboratory Activity 1: Add Two Numbers
+Pseudocode:
+START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+END
+
+Laboratory Activity 2: Compute the Average of Three Quiz Scores
+Pseudocode:
+START
+INPUT Q.score1
+INPUT Q.score2
+INPUT Q.score3
+PROCESS score = (Q.score1 + Q.score2 + Q.score3) 
+DISPLAY score
+END
+
+Laboratory Activity 3: Determine if a Number is Even or Odd
+Pseudocode:
+START
+INPUT number
+IF number MOD 2 = 0 THEN
+DISPLAY "Even"
+ELSE
+DISPLAY "Odd"
+END IF
+END
